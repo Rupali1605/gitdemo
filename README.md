@@ -1,4 +1,4 @@
 # gitdemo
 This is my demo repository
-Welcome to demo tutorial
-K.B joshi institute of it
+<br>Welcome to demo tutorial
+<br>K.B joshi institute of it
